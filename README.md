@@ -12,7 +12,4 @@ I'm Currently learning DirectX11 for 3D rendering and Game Development along wit
 ![](https://nirzak-streak-stats.vercel.app/?user=sriramnv&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sriramnv&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=sriramnv&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
